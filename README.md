@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @cmuncinelli!
-- 👀 I’m interested in ... physics, mathematics and a little bit of coding!
-- 🌱 I’m currently learning ... lots of... well... math and physics :D
-- 📫 How to reach me ... mail or pm me!
     Thanks!
 
 <!---
