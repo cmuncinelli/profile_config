@@ -24,9 +24,13 @@ C++ | Python | Bash | Git | LaTeX | ROOT | PYTHIA
 ```
 
 <div align="right">
+  
 📫 **How to reach me and my research group**:
+
 🌐 https://sites.ifi.unicamp.br/hadrex/
+
 💼 https://orcid.org/0000-0003-0076-3852
+
 </div>
 
 <h1 align="center">Thanks and have a great day!</h1>
