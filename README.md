@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Cicero!</h1>
+<h1 align="center">Hello there 👋, I'm Cicero!</h1>
 
 <p align="center">
   👨‍🔬 Particle physicist | 💻 Developer | 🧪 Msc. Student
@@ -21,9 +21,12 @@ My research includes simulations, phenomenology, and *I am a member of the ALICE
 🛠️ Languages & Tools:
 ```bash
 C++ | Python | Bash | Git | LaTeX | ROOT | PYTHIA
+```
 
-📫 How to reach me and my research group:
+<div align="right">
+📫 **How to reach me and my research group**:
 🌐 https://sites.ifi.unicamp.br/hadrex/
 💼 https://orcid.org/0000-0003-0076-3852
+</div>
 
-Thanks and have a great day!
+<h1 align="center">Thanks and have a great day!</h1>
