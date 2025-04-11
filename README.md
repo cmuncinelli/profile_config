@@ -9,6 +9,7 @@
 🎓 I'm a researcher in high-energy physics, working in the field of **heavy-ion collisions**, where I explore the properties of the quark-gluon plasma and the early Universe.
 
 🔬 I work with tools like **PYTHIA 8**, **ROOT**, **PyROOT**, **ALICE's O2** and **hydrodynamic simulations**!
+
 My research includes simulations, phenomenology, and *I am a member of the ALICE collaboration at the LHC*.
 
 🚀 Some of my current projects include:
