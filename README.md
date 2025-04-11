@@ -1,7 +1,28 @@
-- 👋 Hi, I’m @cmuncinelli!
-    Thanks!
+<h1 align="center">Hi there 👋, I'm Cicero!</h1>
 
-<!---
-cmuncinelli/cmuncinelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  👨‍🔬 Particle physicist | 💻 Developer | 🧪 Msc. Student
+</p>
+
+---
+
+🎓 I'm a researcher in high-energy physics, working in the field of **heavy-ion collisions**, where I explore the properties of the quark-gluon plasma and the early Universe.
+
+🔬 I work with tools like **PYTHIA 8**, **ROOT**, **PyROOT**, ALICE's **O2** and hydrodynamic simulations!
+My research includes simulations, phenomenology, and *I am a member of the ALICE collaboration at the LHC*.
+
+🚀 Some of my current projects include:
+- 📦 Tutorials for PYTHIA and ROOT for undergraduates
+- 🧠 Custom Monte Carlo workflows
+- ⚙️ Analysis pipelines for particle collision data
+- 🌀 Vorticity in the Quark Gluon Plasma
+
+🛠️ Languages & Tools:
+```bash
+C++ | Python | Bash | Git | LaTeX | ROOT | PYTHIA
+
+📫 How to reach me and my research group:
+🌐 https://sites.ifi.unicamp.br/hadrex/
+💼 https://orcid.org/0000-0003-0076-3852
+
+Thanks and have a great day!
