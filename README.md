@@ -16,7 +16,7 @@ My research includes simulations, phenomenology, and *I am a member of the ALICE
 - 📦 Tutorials for PYTHIA and ROOT for undergraduates
 - 🧠 Custom Monte Carlo workflows
 - ⚙️ Analysis pipelines for particle collision data
-- 🌀 Vorticity in the Quark Gluon Plasma
+- 🌀 Vorticity in the Quark-Gluon Plasma
 
 🛠️ Languages & Tools:
 ```bash
