@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Cicero!</h1>
 
 <p align="center">
-  👨‍🔬 Particle physicist | 💻 Developer | 🧪 Msc. Student
+  👨‍🔬 Particle physicist | 💻 Developer | 🧪 PhD Student
 </p>
 
 ---
